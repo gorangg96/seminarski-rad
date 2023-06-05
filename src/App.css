@@ -74,6 +74,7 @@
 	background-color: rgb(58, 122, 242);
 	color: white;
 	display: inline-block;
+	word-break: break-word;
 }
 
 .time {
@@ -100,6 +101,7 @@ form {
 	font-size: 25px;
 	resize: none;
 	background-color: #ebaf60;
+	padding-left: 8px;
 }
 
 button {
